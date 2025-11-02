@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>[Anupama Sharma]</h1>
+  <h1>Anupama Sharma</h1>
   <p>Masters Student in Data Science | AI & Machine Learning Enthusiast | Data Scientist</p>
   <p><a href="https://www.linkedin.com/in/anupama-sharma22/>LinkedIn</a> | <a href="mailto:.emasharma25@umd.edu">Email</a> | <a href="https://github.com/AnupamaSharma2000">GitHub</a></p>
 </div>
