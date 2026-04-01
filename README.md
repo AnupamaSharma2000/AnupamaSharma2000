@@ -1,6 +1,6 @@
 <img align="right" width="160" style="border-radius:50%;margin-left:20px" src="https://raw.githubusercontent.com/AnupamaSharma2000/AnupamaSharma2000/main/profile.jpeg" alt="Anupama Sharma" />
 
-<h1> Hi, I'm Annu </h1>
+<h1>Hi, I'm Annu 👋</h1>
 
 I'm a Data Science grad student at the **University of Maryland** with a background in Electrical Engineering and Physics from BITS Pilani. Before UMD, I spent two years at Synechron's AI Finlabs building agentic systems, fine-tuning language models, and making sense of messy data.
 
