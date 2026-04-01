@@ -1,4 +1,9 @@
-<img align="right" width="160" style="border-radius:50%;margin-left:20px" src="https://raw.githubusercontent.com/AnupamaSharma2000/AnupamaSharma2000/main/profile.jpeg" alt="Anupama Sharma" />
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="160" valign="top">
+<img src="https://raw.githubusercontent.com/AnupamaSharma2000/AnupamaSharma2000/main/profile.jpeg" width="150" style="border-radius:50%" alt="Anupama Sharma" />
+</td>
+<td valign="top" style="padding-left:20px">
 
 <h1>Hi, I'm Annu 👋</h1>
 
