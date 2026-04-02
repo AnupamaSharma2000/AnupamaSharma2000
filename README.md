@@ -7,7 +7,7 @@
 </div>
 
 <img align="right" width="155" src="https://raw.githubusercontent.com/AnupamaSharma2000/AnupamaSharma2000/main/profile.jpeg" alt="Anupama Sharma" />
-I'm a Data Science grad student at the **University of Maryland** with a background in Electrical Engineering and Physics from BITS Pilani. Before UMD, I spent two years at Synechron's AI Finlabs building agentic systems, fine-tuning language models, and making sense of messy data.
+I'm a Data Science grad student at the University of Maryland with a background in Electrical Engineering and Physics from BITS Pilani. Before UMD, I spent two years at Synechron's AI Finlabs building agentic systems, fine-tuning language models, and making sense of messy data.
 
 I'm drawn to problems at the intersection of machine learning and the real world — whether that's improving how models reason, making AI systems more reliable, or turning complex datasets into something meaningful.
 
@@ -17,7 +17,7 @@ I'm drawn to problems at the intersection of machine learning and the real world
 
 ## What I'm Working On
 
-- **MS in Data Science @ UMD** (2025–2027) — coursework in Data Representation, Big Data Systems, and Algorithms for Data Science
+- **MS in Data Science @ UMD** (2025–2027) - coursework in Data Representation, Big Data Systems, and Algorithms for Data Science
 - Research on agentic AI, RAG systems, weather forecasting and responsible AI evaluation
 - Selected for the **U21 Sustainable Policy Leadership Summer School** (McMaster University, 2026) — one of ~60 participants globally
 
