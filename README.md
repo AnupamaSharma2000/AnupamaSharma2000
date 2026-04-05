@@ -38,7 +38,7 @@ I'm drawn to problems at the intersection of machine learning and the real world
 
 ## Experience
 
-**Data Science Analyst — Synechron Technologies, Finlabs** *(2024–2025)*
+**Machine Learning Engineer — Synechron Technologies, Finlabs** *(2024–2025)*
 Fine-tuned the Qwen2 Vision Language Model for information extraction (+25% F1/precision). Applied RoBERTa + Random Forest for customer segmentation. Built automated data quality modules and technical documentation for an in-house Agentic AI framework.
 
 **Data Science Intern — Synechron Technologies, Finlabs** *(2023–2024)*
